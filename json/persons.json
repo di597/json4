@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Gojo Satoru",
+    "age": 30,
+    "occupation": "Teacher",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/en/9/96/SatoruGojomanga.png"
+  },
+  {
+    "name": "Spider Man",
+    "age": 35,
+    "occupation": "Friendly neighbor",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
+  },
+  {
+    "name": "Zendaya",
+    "age": 27,
+    "occupation": "Actress",
+    "person_photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Zendaya_-_2019_by_Glenn_Francis.jpg/460px-Zendaya_-_2019_by_Glenn_Francis.jpg"
+  }
+]
